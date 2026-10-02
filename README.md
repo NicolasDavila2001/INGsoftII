@@ -1,7 +1,7 @@
 # HALEUN
 
 <p align="center">
-  <img src="assets/logo-halun.png" alt="HALUN" width="300">
+  <img src="assets/plogo.png" alt="HALEUN" width="300">
 </p>
 
 <p align="center">
