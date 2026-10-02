@@ -1,44 +1,36 @@
-# HALUN
+# HALEUN
 
 <p align="center">
   <img src="assets/logo-halun.png" alt="HALUN" width="300">
 </p>
 
 <p align="center">
-  <strong>Herramienta de Aprendizaje de Lenguas de la Universidad Nacional</strong>
+  <strong>Language Learning Tool of the National University</strong>
 </p>
 
-## 📚 Descripción
+## 📚 Description
 
-**HALUN** es una herramienta de software desarrollada para apoyar a los estudiantes de la **Universidad Nacional de Colombia** en el aprendizaje y práctica de lenguas.
+**HALUN** is a software tool designed to support students at the **National University of Colombia** in learning and practicing foreign languages.
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-Facilitar el aprendizaje de lenguas mediante una herramienta digital, accesible e interactiva, orientada a las necesidades de los estudiantes de la Universidad Nacional.
+To facilitate language learning through an accessible and interactive digital tool designed around the needs of Universida Nacional students.
 
-## 🚀 Características
+## 🚀 Features
 
-* 📖 Recursos para el aprendizaje de lenguas.
-* 🧠 Actividades y ejercicios de práctica.
-* 🌎 Desarrollo de competencias lingüísticas.
-* 🎓 Enfoque en estudiantes de la Universidad Nacional.
-* 💻 Plataforma digital de apoyo al aprendizaje.
+* 🧠 Practice activities and exercises.
+* 🌎 Development of language skills.
+* 🎓 Designed for students of the National University.
+* 💻 Lessons according to CEFR level
 
-## 🛠️ Tecnologías
 
-> Completar con las tecnologías utilizadas en el proyecto.
+## 👥 Project
 
-* **Frontend:** Por definir
-* **Backend:** Por definir
-* **Base de datos:** Por definir
-
-## 👥 Proyecto
-
-Desarrollado como una iniciativa orientada al apoyo del aprendizaje de lenguas dentro de la comunidad universitaria.
+HALEUN is an initiative focused on supporting language learning within the university community.
 
 ---
 
 <p align="center">
-  <strong>HALUN</strong><br>
-  Herramienta de Aprendizaje de Lenguas de la Universidad Nacional
+  <strong>HALEUN</strong><br>
+  Language Learning Tool of the National University
 </p>
